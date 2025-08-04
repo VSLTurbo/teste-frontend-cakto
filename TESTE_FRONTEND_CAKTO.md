@@ -211,16 +211,6 @@ npm test
 [Suas ideias para aumentar a conversão do checkout]
 ```
 
-### Estrutura Sugerida (Flexível)
-
-```
-src/
-├── components/            # Componentes reutilizáveis
-├── utils/                 # Funções utilitárias
-├── types/                 # Definições TypeScript
-└── __tests__/            # Testes (opcional)
-```
-
 ### Como Criar o Repositório
 
 1. **Crie um repositório no GitHub:**
